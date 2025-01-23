@@ -31,7 +31,7 @@ sections:
           - pr-3
         justifyContent: center
       subtitle:
-        textAlign: center
+        textAlign: justify
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
