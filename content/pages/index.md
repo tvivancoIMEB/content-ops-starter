@@ -38,7 +38,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: Increase your reach
+        subtitle: ''
         text: >+
           <iframe
           src="https\://drive.google.com/embeddedfolderview?id=1mKrvJIvqL\_SOoJDJZoM8RlrDo0iywMnE#grid"
