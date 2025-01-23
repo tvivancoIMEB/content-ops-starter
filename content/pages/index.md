@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: '"Mes de la Mujer 2025: 8M El Bosque avanza con fuerza de mujer"'
       color: text-dark
       styles:
         self:
