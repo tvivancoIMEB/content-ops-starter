@@ -31,7 +31,7 @@ sections:
           - pr-3
         justifyContent: center
       subtitle:
-        textAlign: justify
+        textAlign: center
         fontWeight: 500
 seo:
   metaTitle: Home - Demo site
