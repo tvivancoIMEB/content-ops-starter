@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: "Este marzo, El Bosque celebra la diversidad y la fortaleza de las mujeres que dan vida a nuestra comuna. En el marco del Mes de la Mujer, homenajearemos a 2000 vecinas a través de sus retratos, representando la riqueza y pluralidad de todas las mujeres bosquinas: trabajadoras, emprendedoras, estudiantes, cuidadoras, artistas y más.Estas imágenes reflejarán el esfuerzo, el compromiso y el coraje de quienes construyen día a día un El Bosque lleno de oportunidades e igualdad. ¡Juntas avanzamos con fuerza de mujer! \U0001F49C"
     items: []
     actions: []
     variant: toggle-list
