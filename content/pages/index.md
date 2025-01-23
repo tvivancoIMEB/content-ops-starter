@@ -37,7 +37,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: Feature 1
+        tagline: ''
         subtitle: Increase your reach
         text: >+
           <iframe
